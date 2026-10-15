@@ -133,4 +133,4 @@ The EDA provides an overall understanding of sales, profit, quantity, discount, 
 
 ## Author
 
-Fareez Khan
+Shaikh Ameen
